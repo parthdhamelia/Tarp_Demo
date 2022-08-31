@@ -26,7 +26,7 @@ select,
 button,
 .pointer {
     cursor: pointer;
-}cas
+}
 
 ::-moz-focus-inner {
     border: 0 solid transparent;
